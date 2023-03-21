@@ -1,0 +1,30 @@
+{
+  "name": "hw_npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PetroViter/HW_npm.git"
+  },
+  "keywords": [
+    "Viter"
+  ],
+  "author": "Petro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PetroViter/HW_npm/issues"
+  },
+  "homepage": "https://github.com/PetroViter/HW_npm#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "prettier": "^2.8.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "eslint-config-airbnb-base": "^15.0.0"
+  }
+}
